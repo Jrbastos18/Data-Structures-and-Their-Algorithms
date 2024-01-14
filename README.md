@@ -11,14 +11,17 @@
 - Note 1: When I came into contact with the book in college, the practical exercises were solved in the C Language, but as my current focus is the C# Language, I will do the exercises in it.
 - Note 2: I may not solve all the exercises in the book.
 
+## Índice / Table of Contents
+- [Capítulo/Chapter 1]()
+
 # Referência / Reference
 ᴾᵀ⁻ᴮᴿ Livro: "Estrutura de Dados e Seus Algoritmos". Szwarcfiter e Markenzon, 3ª Edição (2010)
 
 ᴱᴺ⁻ᵁˢ Book: "Data Structure and Its Algorithms". Szwarcfiter and Markenzon, 3rd Edition (2010) 
 - PS: You may have difficulty finding it. Because it is only in Brazilian Portuguese.
 
-## Índice / Table of Contents
-- [Capítulo/Chapter 1]
+## Capa do Livro / Book Cover
+![Cover](https://github.com/Jrbastos18/Data-Structures-and-Their-Algorithms/blob/main/Assets/Cover.jpg)
 
 ## Contribuições / Contributions
 ᴾᵀ⁻ᴮᴿ Esse repositório é apenas para armazenar minhas soluções, então não aceito contribuições de códigos exceto correções (Sou estudante e provavelmente cometerei erros, então se você encontrar algum erro e puder me ajudar em meu aprendizado, agradeceria grandemente).
