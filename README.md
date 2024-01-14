@@ -12,7 +12,7 @@
 - Note 2: I may not solve all the exercises in the book.
 
 ## Índice / Table of Contents
-- [Capítulo/Chapter 1]()
+- [Capítulo 1 - Preliminares / Chapter 1 - Preliminary](https://github.com/Jrbastos18/Data-Structures-and-Their-Algorithms/blob/main/Chapter1/README.md)
 
 # Referência / Reference
 ᴾᵀ⁻ᴮᴿ Livro: "Estrutura de Dados e Seus Algoritmos". Szwarcfiter e Markenzon, 3ª Edição (2010)
